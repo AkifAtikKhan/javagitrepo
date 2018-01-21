@@ -20,7 +20,7 @@ public class main {
 		System.out.println("Hello Happy Sales People!");
 		System.out.println("This APP SHOWS SALES DATA");
 		
-		System.out.println("new stuff APP SHOWS SALES DATA");
+		System.out.println("Test one!");
 	}
 
 
